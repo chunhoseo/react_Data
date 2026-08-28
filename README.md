@@ -8,3 +8,16 @@
 - 💳 **구독 관리** - Stripe 통합으로 플랜 업그레이드 및 결제 처리
 - 🔄 **CI/CD** - GitHub Actions를 통한 자동화된 테스트 및 빌드
 - 📦 **배포 준비 완료** - Vercel(프론트) + Render(백엔드) + Supabase 통합
+
+
+## 🛠 기술 스택
+
+| 분야 | 기술 |
+|------|------|
+| **런타임** | Node.js + Express.js |
+| **언어** | TypeScript |
+| **프론트엔드** | Vite + Tailwind CSS |
+| **데이터베이스 & 인증** | Supabase |
+| **AI 서비스** | OpenAI API |
+| **CI/CD** | GitHub Actions |
+| **호스팅** | Vercel (프론트) + Render (백엔드) |
